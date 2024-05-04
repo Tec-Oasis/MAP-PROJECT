@@ -10,7 +10,6 @@ void main() async {
   runApp(const JMPS());
 }
 
-// JMPS main class
 class JMPS extends StatelessWidget {
   const JMPS({super.key});
 
@@ -21,4 +20,4 @@ class JMPS extends StatelessWidget {
       home: Login(),
     );
   }
-}  
+}
