@@ -10,6 +10,7 @@ void main() async {
   runApp(const JMPS());
 }
 
+// StatelessWidget
 class JMPS extends StatelessWidget {
   const JMPS({super.key});
 
